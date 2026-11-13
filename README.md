@@ -12,10 +12,13 @@ Built for Castellón (Spain) and ready for launch.
 
 ## Features
 
-- **Find players nearby** — join people around you who are looking for a game
-- **Teams** — create a team or join an existing one
-- **Pitch booking** — rent a football pitch directly from the app
-- **Matches** — organize and play matches with your team
+- **Matches** — browse open matches with free spots near you and join in one tap, or create your own: public or private (invite link), on indoor, artificial or natural grass
+- **Pitch booking** — pick a pitch, a date and an available time slot, and get directions to it
+- **Clubs & teams** — create a team with its crest, format (futsal, 7-a-side, 11-a-side) and squad size; invite players with a code
+- **Team chat** — every team and match has its own chat
+- **Player profiles** — position, level, stats, match history, friends and followers
+- **Competitive ranking** — monthly leaderboard based on wins, win rate and consistency
+- **For pitch owners** — owners can list their pitch and manage schedules, prices and availability
 - **In-app payments** — secure payments with Stripe
 
 ## Tech stack
@@ -38,15 +41,13 @@ flowchart LR
 
 ## Screenshots
 
-<!-- Add 3–4 screenshots here, e.g.:
-<p float="left">
-  <img src="screenshots/home.png" width="200" />
-  <img src="screenshots/teams.png" width="200" />
-  <img src="screenshots/booking.png" width="200" />
-</p>
--->
+| Matches | Pitch details | Book a pitch |
+| :---: | :---: | :---: |
+| <img src="screenshots/matches.jpg" width="220" /> | <img src="screenshots/pitch.jpg" width="220" /> | <img src="screenshots/booking.jpg" width="220" /> |
+| **Create a team** | **Team chat** | **Player profile** |
+| <img src="screenshots/create-team.jpg" width="220" /> | <img src="screenshots/team-chat.jpg" width="220" /> | <img src="screenshots/profile.jpg" width="220" /> |
 
-_Screenshots coming soon. Meanwhile, check the [demo videos on TikTok](https://www.tiktok.com/@futtyapp)._
+More in action on [TikTok](https://www.tiktok.com/@futtyapp).
 
 ## About me
 
